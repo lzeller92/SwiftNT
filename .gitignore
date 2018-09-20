@@ -1,0 +1,11 @@
+.DS_Store
+
+/.build
+.build/*
+build/
+
+/Packages
+
+/*.xcodeproj
+*.xcodeproj/*
+*.xcodeproj
